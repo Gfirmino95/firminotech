@@ -1,0 +1,13 @@
+/* TEAM */
+Empresa: Firmino Tech
+Contato: comercial@firminotech.com.br
+Telefone: +55 11 95344-5836
+LinkedIn: https://www.linkedin.com/in/geovanefirmino
+Instagram: https://www.instagram.com/firmino.technology
+
+/* SITE */
+Idioma: Português do Brasil
+Domínio: https://firminotech.com.br
+Última atualização: 2026-01-01
+Tecnologias: React, CSS, JSON-LD, sitemap XML, robots.txt
+Localização: São Paulo, SP | Atendimento nacional

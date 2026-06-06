@@ -1,0 +1,20 @@
+# Firmino Tech
+
+> Empresa brasileira especializada em automação de processos, Power BI, OCR e análise de dados para logística, varejo, manufatura, serviços e financeiro.
+
+URL: https://firminotech.com.br/
+Contato: comercial@firminotech.com.br | +55 11 95344-5836
+WhatsApp: https://wa.me/5511953445836?text=Ol%C3%A1%20Firmino!%20Gostaria%20de%20conhecer%20mais%20sobre%20os%20servi%C3%A7os%20de%20automa%C3%A7%C3%A3o%20e%20an%C3%A1lise%20de%20dados%20da%20Firmino%20Tech.
+Localização: São Paulo, SP | Atendimento em todo o Brasil
+
+## Serviços
+
+- Automação de processos empresariais
+- Power BI e dashboards executivos
+- OCR e captura inteligente de documentos
+- Análise de dados e inteligência operacional
+- Integração de sistemas
+
+## Diferenciais
+
+Combinamos diagnóstico operacional, automação, visualização de dados e inteligência aplicada para reduzir retrabalho, melhorar indicadores e acelerar decisões gerenciais.

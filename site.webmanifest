@@ -1,0 +1,19 @@
+{
+  "name": "Firmino Tech - Automação, Power BI e Dados",
+  "short_name": "Firmino Tech",
+  "description": "Automação de processos, Power BI, OCR e análise de dados para empresas de logística, varejo, manufatura e serviços. Reduza custos, ganhe produtividade e transforme dados em decisões em 2026.",
+  "lang": "pt-BR",
+  "start_url": "https://firminotech.com.br/",
+  "scope": "https://firminotech.com.br/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00D9FF",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
